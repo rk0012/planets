@@ -1,1 +1,2 @@
-this is a bad example
+first line of mars
+add another line
