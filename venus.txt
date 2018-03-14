@@ -1,4 +1,8 @@
 Hi Robin!
 Come teach Legacy StEPS with us!
+<<<<<<< HEAD
 
 As long as it isn't STEPS II.  That scares me
+=======
+kumquats are tiny oranges
+>>>>>>> 29a9ff839a4d9044e6ee3e74d79f12938d9a4ede
